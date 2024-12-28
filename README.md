@@ -11,12 +11,12 @@ Welcome to the Python Handbook repository! This guide is designed to help you pr
 - [Features of Python](#)
 - [Python in Tech Interviews](#)
 
-### 2. [Python Basics](#)
-- [Data Types](#)
-- [Variables](#)
-- [Operators](#)
-- [Conditionals](#)
-- [Loops](#)
+### 2. [Python Basics](https://github.com/AkshayChandole/Python-handbook/tree/main/PythonBasics#python-basics)
+- [Data Types](https://github.com/AkshayChandole/Python-handbook/tree/main/PythonBasics#1-data-types)
+- [Variables](https://github.com/AkshayChandole/Python-handbook/tree/main/PythonBasics#2-variables)
+- [Operators](https://github.com/AkshayChandole/Python-handbook/tree/main/PythonBasics#3-operators)
+- [Conditionals](https://github.com/AkshayChandole/Python-handbook/tree/main/PythonBasics#4-conditionals)
+- [Loops](https://github.com/AkshayChandole/Python-handbook/tree/main/PythonBasics#5-loops)
 
 ### 3. [Data Structures](#)
 - [Lists](#)
