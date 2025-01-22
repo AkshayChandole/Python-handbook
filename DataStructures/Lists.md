@@ -2,8 +2,6 @@
 
 # [Lists](#lists)
 
-Welcome to the **Python Handbook** repository! This section provides a comprehensive explanation of **Lists** in Python. Lists are one of the most versatile and commonly used data structures in Python. This README covers everything you need to know about lists, from basics to advanced topics, with examples.
-
 ---
 
 ## Table of Contents
