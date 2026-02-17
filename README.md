@@ -11,13 +11,13 @@ This repository is designed to provide a structured, in-depth, and practical lea
 
 ## [Introduction](https://github.com/AkshayChandole/Python-handbook/blob/main/Introduction/introduction.md#introduction)
 
-### [About This Repository](https://github.com/AkshayChandole/Python-handbook/blob/main/Introduction/introduction.md#about-this-repository)
+- [About This Repository](https://github.com/AkshayChandole/Python-handbook/blob/main/Introduction/introduction.md#about-this-repository)
 
-### [Why Learn Python?](https://github.com/AkshayChandole/Python-handbook/blob/main/Introduction/introduction.md#why-learn-python)
+- [Why Learn Python?](https://github.com/AkshayChandole/Python-handbook/blob/main/Introduction/introduction.md#why-learn-python)
 
-### [Python Ecosystem Overview](https://github.com/AkshayChandole/Python-handbook/blob/main/Introduction/introduction.md#python-ecosystem-overview)
+- [Python Ecosystem Overview](https://github.com/AkshayChandole/Python-handbook/blob/main/Introduction/introduction.md#python-ecosystem-overview)
 
-### [CPython vs PyPy vs Other Implementations](https://github.com/AkshayChandole/Python-handbook/blob/main/Introduction/introduction.md#cpython-vs-pypy-vs-other-implementations)
+- [CPython vs PyPy vs Other Implementations](https://github.com/AkshayChandole/Python-handbook/blob/main/Introduction/introduction.md#cpython-vs-pypy-vs-other-implementations)
 
 ---
 
