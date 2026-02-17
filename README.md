@@ -9,15 +9,15 @@ This repository is designed to provide a structured, in-depth, and practical lea
 
 ---
 
-## 1. Introduction
+## [Introduction](https://github.com/AkshayChandole/Python-handbook/blob/main/Introduction/introduction.md#introduction)
 
-### 1.1 About This Repository
+### [About This Repository](https://github.com/AkshayChandole/Python-handbook/blob/main/Introduction/introduction.md#about-this-repository)
 
-### 1.2 Why Learn Python?
+### [Why Learn Python?](https://github.com/AkshayChandole/Python-handbook/blob/main/Introduction/introduction.md#why-learn-python)
 
-### 1.3 Python Ecosystem Overview
+### [Python Ecosystem Overview](https://github.com/AkshayChandole/Python-handbook/blob/main/Introduction/introduction.md#python-ecosystem-overview)
 
-### 1.4 CPython vs PyPy vs Other Implementations
+### [CPython vs PyPy vs Other Implementations](https://github.com/AkshayChandole/Python-handbook/blob/main/Introduction/introduction.md#cpython-vs-pypy-vs-other-implementations)
 
 ---
 
