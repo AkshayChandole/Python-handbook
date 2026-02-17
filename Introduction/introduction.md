@@ -177,7 +177,7 @@ Example:
 
 ---
 
-# 1.3 Python Ecosystem Overview
+# [Python Ecosystem Overview](#python-ecosystem-overview)
 
 Python’s strength lies in its ecosystem.
 
