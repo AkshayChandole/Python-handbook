@@ -1,7 +1,7 @@
 # [Keywords](#Keywords)
 
 
-# 1. Topic Overview
+## 1. Topic Overview
 
 **Keywords** in Python are **reserved words that have special meanings in the language**.
 
@@ -41,7 +41,7 @@ So the key idea:
 
 ---
 
-# 2. Problem it Solves
+## 2. Problem it Solves
 
 Programming languages need **fixed words to represent operations and control structures**.
 
@@ -85,7 +85,7 @@ are **keywords controlling loop behavior**.
 
 ---
 
-# 3. Concept Explanation
+## 3. Concept Explanation
 
 Python keywords are **predefined words with special meaning in the interpreter**.
 
@@ -115,7 +115,7 @@ Because `class` is a reserved keyword.
 
 ---
 
-## Python Keywords List
+### Python Keywords List
 
 Python currently has **35 keywords (Python 3.x)**.
 
@@ -161,7 +161,7 @@ You can view them using Python.
 
 ---
 
-# 4. Internal Working
+## 4. Internal Working
 
 Internally, Python’s **parser recognizes keywords as tokens** during code parsing.
 
@@ -189,7 +189,7 @@ So keywords are recognized as **special tokens in Python grammar**.
 
 ---
 
-## Token Types
+### Token Types
 
 Python interpreter categorizes tokens as:
 
@@ -205,34 +205,34 @@ Keywords belong to **reserved token types**.
 
 ---
 
-# 5. Syntax
+## 5. Syntax
 
 Keywords appear naturally in Python syntax.
 
 Example syntax forms:
 
-### Conditional
+#### Conditional
 
 ```python
 if condition:
     statement
 ```
 
-### Loop
+#### Loop
 
 ```python
 for variable in sequence:
     statement
 ```
 
-### Function
+#### Function
 
 ```python
 def function_name():
     statements
 ```
 
-### Class
+#### Class
 
 ```python
 class ClassName:
@@ -241,11 +241,11 @@ class ClassName:
 
 ---
 
-# 6. Code Examples
+## 6. Code Examples
 
 ---
 
-# Example 1 — Using `if` Keyword
+## Example 1 — Using `if` Keyword
 
 ```python
 x = 10
@@ -254,7 +254,7 @@ if x > 5:
     print("x is greater than 5")
 ```
 
-### Output
+#### Output
 
 ```
 x is greater than 5
@@ -268,14 +268,14 @@ if
 
 ---
 
-# Example 2 — Using `for` Keyword
+## Example 2 — Using `for` Keyword
 
 ```python
 for i in range(3):
     print(i)
 ```
 
-### Output
+#### Output
 
 ```
 0
@@ -292,7 +292,7 @@ in
 
 ---
 
-# Example 3 — Function with `def` and `return`
+## Example 3 — Function with `def` and `return`
 
 ```python
 def add(a, b):
@@ -301,7 +301,7 @@ def add(a, b):
 print(add(3, 4))
 ```
 
-### Output
+#### Output
 
 ```
 7
@@ -316,7 +316,7 @@ return
 
 ---
 
-# Example 4 — Using `class`
+## Example 4 — Using `class`
 
 ```python
 class Student:
@@ -326,7 +326,7 @@ s = Student()
 print(type(s))
 ```
 
-### Output
+#### Output
 
 ```
 <class '__main__.Student'>
@@ -341,7 +341,7 @@ pass
 
 ---
 
-# Example 5 — Exception Handling
+## Example 5 — Exception Handling
 
 ```python
 try:
@@ -350,7 +350,7 @@ except ZeroDivisionError:
     print("Cannot divide by zero")
 ```
 
-### Output
+#### Output
 
 ```
 Cannot divide by zero
@@ -365,11 +365,11 @@ except
 
 ---
 
-# 7. Edge Cases
+## 7. Edge Cases
 
 ---
 
-## 1. Using keywords as variable names
+### 1. Using keywords as variable names
 
 Invalid:
 
@@ -391,7 +391,7 @@ for_value = 5
 
 ---
 
-## 2. Using keywords inside identifiers
+### 2. Using keywords inside identifiers
 
 This is allowed.
 
@@ -405,7 +405,7 @@ Even though they contain keyword text, they are valid identifiers.
 
 ---
 
-## 3. Keywords vs Built-in Functions
+### 3. Keywords vs Built-in Functions
 
 Some words **look like keywords but are not**.
 
@@ -429,7 +429,7 @@ But **not recommended** because it overrides built-in behavior.
 
 ---
 
-# 8. Performance Considerations
+## 8. Performance Considerations
 
 Keywords themselves **do not affect runtime performance**, but they influence **program structure and execution flow**.
 
@@ -446,7 +446,7 @@ Here `for` keyword controls iteration.
 
 ---
 
-## Bytecode Generation
+### Bytecode Generation
 
 When Python compiles code:
 
@@ -466,11 +466,11 @@ The keyword `if` determines **which bytecode instructions are produced**.
 
 ---
 
-# 9. Common Mistakes
+## 9. Common Mistakes
 
 ---
 
-## Mistake 1 — Using keyword as variable
+### Mistake 1 — Using keyword as variable
 
 ```python
 return = 10
@@ -484,7 +484,7 @@ SyntaxError
 
 ---
 
-## Mistake 2 — Confusing keywords with functions
+### Mistake 2 — Confusing keywords with functions
 
 Wrong assumption:
 
@@ -500,7 +500,7 @@ print is built-in function
 
 ---
 
-## Mistake 3 — Not knowing Python keyword list
+### Mistake 3 — Not knowing Python keyword list
 
 Developers sometimes accidentally use:
 
@@ -512,7 +512,7 @@ But `async` is a keyword.
 
 ---
 
-# 10. Real World Usage
+## 10. Real World Usage
 
 Keywords form the **core building blocks of Python programs**.
 
@@ -539,9 +539,9 @@ Every Python program heavily depends on keywords.
 
 ---
 
-# 11. Interview Questions
+## 11. Interview Questions
 
-### Basic
+#### Basic
 
 1. What are keywords in Python?
 2. Can keywords be used as variable names?
@@ -549,7 +549,7 @@ Every Python program heavily depends on keywords.
 
 ---
 
-### Intermediate
+#### Intermediate
 
 4. How many keywords exist in Python?
 5. How can you get the list of Python keywords?
@@ -557,7 +557,7 @@ Every Python program heavily depends on keywords.
 
 ---
 
-### Advanced
+#### Advanced
 
 7. How does Python recognize keywords internally?
 8. What are soft keywords in Python?
@@ -565,7 +565,7 @@ Every Python program heavily depends on keywords.
 
 ---
 
-# 12. Getting Keywords in Python
+## 12. Getting Keywords in Python
 
 Python provides a module called `keyword`.
 
@@ -577,7 +577,7 @@ import keyword
 print(keyword.kwlist)
 ```
 
-### Output
+#### Output
 
 ```
 ['False', 'None', 'True', 'and', 'as', 'assert', ...]
@@ -601,7 +601,7 @@ False
 
 ---
 
-# 13. Summary
+## 13. Summary
 
 Key points about **Python Keywords**:
 
