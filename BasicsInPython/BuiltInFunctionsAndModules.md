@@ -657,6 +657,3 @@ Output:
 Built-in functions and modules make Python **powerful, efficient, and easy to use**.
 
 ---
-
-If you'd like, I can also explain **Python Standard Library (50+ most useful modules every developer should know)** — which is a **very important topic for exams and interviews**.
-
