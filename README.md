@@ -389,3 +389,18 @@ This repository is designed to provide a structured, in-depth, and practical lea
 --- 
 
 
+# [Programming in Python](#programming-in-python)
+  - [Basics in Python](#Basics in Python)
+    - [Identifiers](https://github.com/AkshayChandole/Python-handbook/blob/main/BasicsInPython/Identifiers.md#Identifiers)
+    - [Keywords](https://github.com/AkshayChandole/Python-handbook/blob/main/BasicsInPython/Keywords.md#Keywords)
+    - [Data types](https://github.com/AkshayChandole/Python-handbook/blob/main/BasicsInPython/DataTypes.md#Data-Types)
+    - [Operators](https://github.com/AkshayChandole/Python-handbook/blob/main/BasicsInPython/Operators.md#Operators)
+    - [Data Type Conversions](https://github.com/AkshayChandole/Python-handbook/blob/main/BasicsInPython/DataTypeConversions.md#DataTypeConversions)
+    - [Built-in Functions and Modules](https://github.com/AkshayChandole/Python-handbook/blob/main/BasicsInPython/BuiltInFunctionsAndModules.md#Built-In-Functions-And-Modules)
+    - [Containers and Python Type Jargon](https://github.com/AkshayChandole/Python-handbook/blob/main/BasicsInPython/ContainersandPythonTypeJargon.md#Containers-and-Python-Type-Jargon)
+    - [Classes and Objects](https://github.com/AkshayChandole/Python-handbook/blob/main/BasicsInPython/ClassesAndObjects.md#Classes-and-Objects)
+   
+  - [Strings and Regular Expressions](#Strings-and-Regular-Expressions)
+    -   
+
+
