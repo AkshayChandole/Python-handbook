@@ -399,8 +399,20 @@ This repository is designed to provide a structured, in-depth, and practical lea
   - [Built-in Functions and Modules](https://github.com/AkshayChandole/Python-handbook/blob/main/BasicsInPython/BuiltInFunctionsAndModules.md#Built-In-Functions-And-Modules)
   - [Containers and Python Type Jargon](https://github.com/AkshayChandole/Python-handbook/blob/main/BasicsInPython/ContainersandPythonTypeJargon.md#Containers-and-Python-Type-Jargon)
   - [Classes and Objects](https://github.com/AkshayChandole/Python-handbook/blob/main/BasicsInPython/ClassesAndObjects.md#Classes-and-Objects)
-   
+
 ## [Strings and Regular Expressions](#Strings-and-Regular-Expressions)
   - [Introduction to Strings](https://github.com/AkshayChandole/Python-handbook/blob/main/StringsAndRegularExpressions/IntroductionToStrings.md#Introduction-to-Strings)
+
+---
+
+
+# [LeetCode Coding](#leetcode-coding)
+
+## [Binary Search](#binary-search)
+  - [Find Minimum in Rotated Sorted Array](https://github.com/AkshayChandole/Python-handbook/blob/main/LeetCodeCoding/BinarySearch/Find%20Minimum%20in%20Rotated%20Sorted%20Array.md#Find-Minimum-in-Rotated-Sorted-Array)
+  - [Find First And Last Position Of Element In Sorted Array](https://github.com/AkshayChandole/Python-handbook/blob/main/LeetCodeCoding/BinarySearch/FindFirstAndLastPositionOfElementInSortedArray.md#Find-First-And-Last-Position-Of-Element-In-Sorted-Array)
+  - [Search In A Rotated Sorted Array](https://github.com/AkshayChandole/Python-handbook/blob/main/LeetCodeCoding/BinarySearch/SearchInARotatedSortedArray.md#Search-In-A-Rotated-Sorted-Array)
+  - [Search Insert Position](https://github.com/AkshayChandole/Python-handbook/blob/main/LeetCodeCoding/BinarySearch/SearchInsertPosition.md#Search-Insert-Position)
+
 
 
