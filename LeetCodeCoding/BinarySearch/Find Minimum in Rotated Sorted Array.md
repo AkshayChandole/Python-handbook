@@ -1,4 +1,4 @@
-# [Find Minimum in Rotated Sorted Array](#FindMinimuminRotatedSortedArray.md)
+# [Find Minimum in Rotated Sorted Array](#Find-Minimum-in-Rotated-Sorted-Array.md)
 
 
 ## 1. Problem Understanding
